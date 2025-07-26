@@ -1,0 +1,11 @@
+pyperclip
+requests
+PyQT6
+pillow
+imageio
+
+nuitka
+wheel
+setuptools
+
+sigstore
