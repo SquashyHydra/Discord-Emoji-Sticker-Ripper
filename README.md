@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<table>
+<table style="border-collapse: collapse;">
 <tr>
 <td><img src="assets/icon.ico" alt="Logo" width="48"/></td>
 <td><h1>Discord Emoji Ripper PRO</h1></td>
