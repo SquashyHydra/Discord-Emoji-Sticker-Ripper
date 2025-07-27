@@ -30,6 +30,3 @@ A powerful tool for downloading and managing emojis and stickers from Discord se
 
 ## Screenshots
 ![App Icon](assets/icon.ico)
-
----
-*If you need to host images externally for GitHub display, upload them to your repository or an image hosting service and update the image URLs above accordingly.*
